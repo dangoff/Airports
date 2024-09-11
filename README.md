@@ -1,5 +1,7 @@
 # EndlessATCAirports
 
+The use of this repository has drastically slowed down and, last I knew, most airport files were just being shared directly on Discord. Therefore, I intend to archive this repository October 2024 unless someone else wants to take over maintenance.
+
 [startgrid](https://startgrid.itch.io/) is the developer of the game [Endless ATC](https://startgrid.itch.io/endlessatc) (also available on [Steam](http://store.steampowered.com/app/666610/Endless_ATC/) and [Android](https://play.google.com/store/apps/details?id=com.dirgtrats.atcradar)).
 
 This github is managed by moderators of the discord server. Please join [here](https://discord.gg/v4wDGh3).
